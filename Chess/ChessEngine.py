@@ -1,5 +1,6 @@
 '''
 This class is for the current state of the board.
+This is to check synchronization
 '''
 
 class GameState():
